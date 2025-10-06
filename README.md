@@ -80,10 +80,10 @@ Many more....
 
 
 
- ## Author Contact
+ ##  Contact us
   Contact me with any questions!<br>
 
-  Email: zeiadalriqi@gmail.com
+  Email: zeiadalriqi@gmail.com <br>
   Whatsapp: +967-775932431
 
 <p style="text-align:center">Thank You so much for your time !!!</p>
